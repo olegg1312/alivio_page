@@ -1,3 +1,9 @@
 :root{
-    
+    --color-white: #fff;
+    --color-green: #008760;
+    --color-dark-green: #245852;
+    --color-black: #292929;
+    --color-grey: #424242;
 }
+
+/* media breakpoint: 992px, 786px, 576px, 480px*/
